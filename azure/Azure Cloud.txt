@@ -1,3 +1,4 @@
-Azure 工作期间使用 (有账号)
+Azure 工作期间使用
+部署微服务搭建Cluster服务集群并测试Web API
 
-测试项目: 部署微服务搭建Cluster服务集群并测试Web API
+https://azure.microsoft.com/zh-cn#solutions
